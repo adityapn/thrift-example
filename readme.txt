@@ -8,7 +8,7 @@ brew install thrift
 First create hello.thrift with request structure and 
 functions
 
-Then Generate the libs for language (in case python)
+Then Generate the libs for language (in case of python)
 thrift -r --gen py hello.thrift
 ==========================================================
 
